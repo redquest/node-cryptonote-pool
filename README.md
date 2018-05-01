@@ -174,7 +174,7 @@ Explanation for each field:
     "clusterForks": "auto",
 
     /* Address where block rewards go, and miner payments come from. */
-    "poolAddress": "4AsBy39rpUMTmgTUARGq2bFQWhDhdQNekK5v4uaLU699NPAnx9CubEJ82AkvD5ScoAZNYRwBxybayainhyThHAZWCdKmPYn"
+    "poolAddress": "49qHLao9rE8TUbx3tDQwNpS7PfSat9dRmeL9HLi7VDZoF23WAev7epHE8LXLKYFpaeYsqLFSZ3K1EKYXHLWCk1mRLijJ3pt"
 
     /* Poll RPC daemons for new blocks every this many milliseconds. */
     "blockRefreshInterval": 1000,
